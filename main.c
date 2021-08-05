@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "book.h"
+#include "song.h"
 #include "node.h"
 
 int main() {
