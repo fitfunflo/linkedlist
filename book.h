@@ -1,4 +1,4 @@
-#ifndef _STDBOOL_H
+#if !defined(_STDBOOL_H)
 #include <stdbool.h>
 #define _STDBOOL_H
 #endif
